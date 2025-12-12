@@ -85,11 +85,3 @@ The program visualizes the graph with:
 - Edge colors based on route
 
 Only the most important stops (shared stops + route start/end stops) are labeled to avoid clutter.
-
----
-
-## How to Run
-
-1. Install dependencies:
-```bash
-pip install networkx matplotlib
